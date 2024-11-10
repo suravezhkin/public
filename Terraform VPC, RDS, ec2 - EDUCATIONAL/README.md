@@ -7,7 +7,7 @@ This is not a best practice example!
 It only shows you the principled approach!
 And how to retrieve info from outputs.tf )))
 
-Prerequisites: you must understand how to use Terraform (init, plan, apply) and how to change "your ssh key name here" at lest )))
+Prerequisites: you must understand how to use Terraform (init, plan, apply) and how to change "your ssh key name here" at least )))
 
 This Terraform module will create in AWS:
 - Virtual Private Cloud (VPC).
